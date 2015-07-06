@@ -70,7 +70,7 @@ var DEFAULT_SETTINGS = {
 * 用法：
 
     ```js
-    fis.set('project.files', [*.html'])
+    fis.set('project.files', ['*.html'])
     ```
 
 ### project.ignore
